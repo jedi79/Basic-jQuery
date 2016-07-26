@@ -1,0 +1,84 @@
+
+
+.header {
+	margin: 0 auto;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	background-color: aqua;
+	display: none;
+}
+
+.menu {
+	list-style-type: none;
+	padding-top: 15px;
+	margin-right: 50px;
+}
+
+a {
+	text-decoration: none;
+	font-family: arial;
+	color: black;
+}
+
+li {
+	display: inline;
+	padding-left: 30px;
+	font-style: georgia;
+}
+
+.p-one {
+	display: none;
+}
+
+.p-two {
+	display: none;
+}
+
+.potter, h2 {
+	display: none;
+}
+
+.my-element {
+	display: none;
+}
+
+.freaky1, .freaky2, .freaky3, .freaky4 {
+	position: absolute;
+}
+
+h3 {
+	display: none;
+}
+
+h4 {
+	text-align: center;
+	margin-top: 100px
+}
+
+
+.sec1 {
+	background-color: salmon;
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+.sec2 {
+	background-color: teal;
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+
+.sec3 {
+	background-color: magenta;
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+
+.p1, .p2, .p3 {
+	text-align: center;
+	font-size: 24px;
+	color: white;
+}
